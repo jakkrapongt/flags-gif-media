@@ -1,0 +1,197 @@
+{
+  "groups": {
+    "3D Waving Flag": [
+      "waving",
+      "soft-sag",
+      "fast-wave"
+    ],
+    "Flag Pole": [
+      "pole",
+      "pole-fast-wind",
+      "breeze-pole"
+    ],
+    "Flag Raise/Lower": [
+      "raise-pole-slow",
+      "raise-lower-loop",
+      "hold-pole",
+      "half-mast-pole"
+    ],
+    "Color Pin": [
+      "color-pin",
+      "pin-bounce-loop",
+      "pin-pulse",
+      "pin-wobble-settle",
+      "pin-ring-pulse",
+      "pin-heartbeat"
+    ],
+    "Drop Pin": [
+      "drop-pin",
+      "drop-pin-bounce-loop",
+      "drop-pin-pulse",
+      "drop-pin-wobble-settle",
+      "drop-pin-ring-pulse",
+      "drop-pin-heartbeat"
+    ],
+    "Flat Rectangle": [
+      "rect-float",
+      "rect-pop",
+      "rect-pixel-chase",
+      "rect-tile-pop"
+    ],
+    "LED Rectangle": [
+      "led-rect-pulse",
+      "led-rect-reveal",
+      "led-rect-marquee",
+      "led-rect-flicker"
+    ],
+    "Flat Circle": [
+      "circle-ripple",
+      "circle-gradient-ring",
+      "circle-orbit",
+      "circle-vinyl-spin"
+    ]
+  },
+  "styles": [
+    "waving",
+    "soft-sag",
+    "fast-wave",
+    "pole",
+    "pole-fast-wind",
+    "breeze-pole",
+    "raise-pole-slow",
+    "raise-lower-loop",
+    "hold-pole",
+    "half-mast-pole",
+    "color-pin",
+    "pin-bounce-loop",
+    "pin-pulse",
+    "pin-wobble-settle",
+    "pin-ring-pulse",
+    "pin-heartbeat",
+    "drop-pin",
+    "drop-pin-bounce-loop",
+    "drop-pin-pulse",
+    "drop-pin-wobble-settle",
+    "drop-pin-ring-pulse",
+    "drop-pin-heartbeat",
+    "rect-float",
+    "rect-pop",
+    "rect-pixel-chase",
+    "rect-tile-pop",
+    "led-rect-pulse",
+    "led-rect-reveal",
+    "led-rect-marquee",
+    "led-rect-flicker",
+    "circle-ripple",
+    "circle-gradient-ring",
+    "circle-orbit",
+    "circle-vinyl-spin"
+  ],
+  "countries": [
+    "us"
+  ],
+  "files": {
+    "waving": {
+      "us": "united-states-flag-waving.gif"
+    },
+    "soft-sag": {
+      "us": "united-states-flag-soft-sag.gif"
+    },
+    "fast-wave": {
+      "us": "united-states-flag-fast-wave.gif"
+    },
+    "pole": {
+      "us": "united-states-flag-pole.gif"
+    },
+    "pole-fast-wind": {
+      "us": "united-states-flag-pole-fast-wind.gif"
+    },
+    "breeze-pole": {
+      "us": "united-states-flag-breeze-pole.gif"
+    },
+    "raise-pole-slow": {
+      "us": "united-states-flag-raise-pole-slow.gif"
+    },
+    "raise-lower-loop": {
+      "us": "united-states-flag-raise-lower-loop.gif"
+    },
+    "hold-pole": {
+      "us": "united-states-flag-hold-pole.gif"
+    },
+    "half-mast-pole": {
+      "us": "united-states-flag-half-mast-pole.gif"
+    },
+    "color-pin": {
+      "us": "united-states-flag-color-pin.gif"
+    },
+    "pin-bounce-loop": {
+      "us": "united-states-flag-pin-bounce-loop.gif"
+    },
+    "pin-pulse": {
+      "us": "united-states-flag-pin-pulse.gif"
+    },
+    "pin-wobble-settle": {
+      "us": "united-states-flag-pin-wobble-settle.gif"
+    },
+    "pin-ring-pulse": {
+      "us": "united-states-flag-pin-ring-pulse.gif"
+    },
+    "pin-heartbeat": {
+      "us": "united-states-flag-pin-heartbeat.gif"
+    },
+    "drop-pin": {
+      "us": "united-states-flag-drop-pin.gif"
+    },
+    "drop-pin-bounce-loop": {
+      "us": "united-states-flag-drop-pin-bounce-loop.gif"
+    },
+    "drop-pin-pulse": {
+      "us": "united-states-flag-drop-pin-pulse.gif"
+    },
+    "drop-pin-wobble-settle": {
+      "us": "united-states-flag-drop-pin-wobble-settle.gif"
+    },
+    "drop-pin-ring-pulse": {
+      "us": "united-states-flag-drop-pin-ring-pulse.gif"
+    },
+    "drop-pin-heartbeat": {
+      "us": "united-states-flag-drop-pin-heartbeat.gif"
+    },
+    "rect-float": {
+      "us": "united-states-flag-rect-float.gif"
+    },
+    "rect-pop": {
+      "us": "united-states-flag-rect-pop.gif"
+    },
+    "rect-pixel-chase": {
+      "us": "united-states-flag-rect-pixel-chase.gif"
+    },
+    "rect-tile-pop": {
+      "us": "united-states-flag-rect-tile-pop.gif"
+    },
+    "led-rect-pulse": {
+      "us": "united-states-flag-led-rect-pulse.gif"
+    },
+    "led-rect-reveal": {
+      "us": "united-states-flag-led-rect-reveal.gif"
+    },
+    "led-rect-marquee": {
+      "us": "united-states-flag-led-rect-marquee.gif"
+    },
+    "led-rect-flicker": {
+      "us": "united-states-flag-led-rect-flicker.gif"
+    },
+    "circle-ripple": {
+      "us": "united-states-flag-circle-ripple.gif"
+    },
+    "circle-gradient-ring": {
+      "us": "united-states-flag-circle-gradient-ring.gif"
+    },
+    "circle-orbit": {
+      "us": "united-states-flag-circle-orbit.gif"
+    },
+    "circle-vinyl-spin": {
+      "us": "united-states-flag-circle-vinyl-spin.gif"
+    }
+  }
+}
